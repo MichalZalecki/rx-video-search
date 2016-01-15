@@ -1,31 +1,11 @@
-# EcmaScript 2016+ The Boring Part
+# RxJS + Cycle.pl demo app 
 
-Setup for all modern JS web apps. It's not going to force you to use any specyfic toolset/framework. Be free and make **your** choice. *EcmaScript 2016+ The Boring Part* is just a setup which allows you to develop and deploy app without pain. It's not a bare minimum, although I tried to keep things simple.
+Live coded demo from my RxJS + Cycle.js meet.js Warsaw talk
 
-## Clone
+## Slides
 
-To only clone specyfic branch use `git clone -b {branch-name} {repo}`.
+http://slides.com/michalzalecki/rxjs-cyclejs
 
-```
-git clone -b pure-es https://github.com/MichalZalecki/react-the-boring-part
-```
+## Base
 
-## Scripts
-
-Start **Express** (for production)
-
-```bash
-npm start
-```
-
-Start **WebpackDevServer** (for development)
-
-```bash
-npm run dev
-```
-
-Build (also run in *postinstall*)
-
-```bash
-npm run build
-```
+The setup which I didn't show you comes from: https://github.com/MichalZalecki/react-the-boring-part/tree/pure-es
